@@ -4,7 +4,7 @@
 This is a simple crossword app developed with python.
 
 
-![Screenshot](otput.png)
+![Screenshot](output.png)
 
 ## Usage
 
